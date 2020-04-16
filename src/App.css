@@ -1,0 +1,77 @@
+.App {
+  text-align: center;
+}
+
+.header {
+
+    background: 
+
+    coral;
+    padding-block: inherit;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 15px;
+
+}
+.body{}
+
+.body ul {
+    margin: 0;
+    padding:15px;
+}
+.body ul li {
+
+    list-style: none;
+    margin-bottom: 10px;
+    background: 
+
+    rosybrown;
+    padding: 10px;
+
+}
+.body ul li span{
+    cursor: pointer;
+
+float: right;
+
+font-weight:500;
+}
+.aa {
+
+    background: 
+
+    coral;
+    padding: 15px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+}
+.aa input {
+
+    width: 70%;
+    margin: auto;
+    border: none;
+    color: 
+
+    firebrick;
+    font-size: 17px;
+    height: 30px;
+
+}
+.aa button {
+
+    position: absolute;
+    border-radius: 100%;
+    right: 175px;
+    top: 15px;
+    height: 30px;
+    border: none;
+    font-size: larger;
+
+}
+
+#update{
+    display: none;
+}
+
